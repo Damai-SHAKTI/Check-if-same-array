@@ -1,2 +1,2 @@
-# Check-if-same-array
-solution to check if user input is same as array
+# Problem
+Let user input array as ```userArray``` and your array as ```myArray```. After user entered the array check whether ```userArray``` has same values and length as ```myArray```. 
